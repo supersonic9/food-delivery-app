@@ -13,3 +13,11 @@ Simulates a food delivery app to showcase React capabilities. Users can:
  - Fragments
  - createPortal (to render modal)
  - conditional rendering 
+
+## To Run 
+```
+npm install
+```
+```
+npm start
+```
